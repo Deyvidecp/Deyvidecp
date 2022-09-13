@@ -8,8 +8,8 @@
 ###
 <div align="center">
   <a href="https://github.com/Deyvidecp">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Deyvidecp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvidecp&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Deyvidecp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvidecp&layout=compact&langs_count=7&theme=dark"/>
     
 ###
     
@@ -21,7 +21,8 @@
   <img align="center" alt="Deyvid-mysql" height="60" width="50"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Deyvid-spring" height="60" width="50"
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+          
   
   ###
   
